@@ -1,0 +1,26 @@
+{
+  "name": "@menial/pipeline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gravewrought/menial-pipeline.git"
+  },
+  "keywords": [
+    "menial",
+    "pipeline",
+    "\"pipes",
+    "and",
+    "filters\""
+  ],
+  "author": "Evin Owen <npm@gravewrought.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gravewrought/menial-pipeline/issues"
+  },
+  "homepage": "https://github.com/gravewrought/menial-pipeline#readme"
+}
