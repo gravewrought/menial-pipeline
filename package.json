@@ -1,6 +1,6 @@
 {
   "name": "@menial/pipeline",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -13,9 +13,7 @@
   "keywords": [
     "menial",
     "pipeline",
-    "\"pipes",
-    "and",
-    "filters\""
+    "pipes and filters"
   ],
   "author": "Evin Owen <npm@gravewrought.net>",
   "license": "MIT",
